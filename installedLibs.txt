@@ -1,0 +1,12 @@
+Libraries Installed locally:
+
+Adafruit BME280 Library
+Adafruit IO Library
+Adafruit Unified Sensor
+TFT_eSPI
+TaskScheduler
+ezTime
+
+Libraries in Global Storage:
+Adafruit MQTT Library
+
